@@ -1,7 +1,6 @@
-# Python_Curse
-Curso de Python para treinar e aprender! Do 0 Ao avançado (apenas os trabalhos feitos ) 
+# Cursos de Python
 
 
-Trabalhos de Python feitos começando com:
+GitHub para armazenar todos os meus estudos feitos em cursos online de programação.
 
-1. Sigmoid - Python do Zero: https://cursos.sigmoidal.ai/72007-missao-python-do-zero
+1. Python do Zero (sigmoid): [Python_do_Zero](Python_Zero/Information.md) 
